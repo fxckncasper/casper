@@ -1,14 +1,8 @@
 ### Hi there 👋
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sitbccc/count.svg?"  />
-</div>
-
-###
-
 <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sitbccc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=sitbccc&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=sitbccc&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sitbccc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -38,8 +32,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/sitbccc/sitbccc/output/snake.svg" alt="Snake animation" />
 
