@@ -33,6 +33,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sitbccc/sitbccc/output/snake.svg" alt="Snake animation" />
-
 ###
